@@ -28,4 +28,4 @@
 
 ## 참고
 
-**[전체 소스파일 링크]([http://www.example.com](https://github.com/scv9804/WizardOfCard)https://github.com/scv9804/WizardOfCard)**
+**[전체 소스파일 링크](https://github.com/scv9804/WizardOfCard)**
