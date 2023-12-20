@@ -4,32 +4,32 @@ using UnityEngine;
 
 using Sirenix.OdinInspector;
 
-// ==================================================================================================== EntityManagerEvent
-
 namespace BETA
 {
-    public class EntityManagerEvent : SerializedMonoBehaviour
+    // ==================================================================================================== UIManagerEvent
+
+    public class UIManagerEvent : SerializedMonoBehaviour
     {
         // ==================================================================================================== Field
 
         // =========================================================================== EventDispatcher
 
-        // ======================================================= Game
+        // ======================================================= Card
 
-        [SerializeField, TitleGroup("게임 관련 이벤트")]
-        private EventDispatcher _onGameStart;
+        [SerializeField, TitleGroup("카드 관련 이벤트")]
+        private EventDispatcher _onCardArrange;
 
         // ==================================================================================================== Property
 
         // =========================================================================== EventDispatcher
 
-        // ======================================================= Game
+        // ======================================================= Card
 
-        public EventDispatcher OnGameStart
+        public EventDispatcher OnCardArrange
         {
-            get => _onGameStart;
+            get => _onCardArrange;
 
-            private set => _onGameStart = value;
+            private set => _onCardArrange = value;
         }
-    } 
+    }
 }
