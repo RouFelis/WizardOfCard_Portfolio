@@ -25,3 +25,7 @@
 - **김수민** 플레이어 및 적 캐릭터 이미지, 메인 타이틀 등 각종 컷씬 이미지 
 - **이다인** 카드 및 아이템, 전투 씬 배경 이미지
 - **표다윗** 카드 및 UI 이미지
+
+## 참고
+
+**[전체 소스파일 링크]([http://www.example.com](https://github.com/scv9804/WizardOfCard)https://github.com/scv9804/WizardOfCard)**
